@@ -34,7 +34,8 @@ tests/test_fizzbuzz.py      24      0   100%
 ------------------------------------------------------
 TOTAL                       40      0   100%
 ```
-### Sinon on peut utiliser :
+
+### Sinon on peut utiliser :
 ```bash
 coverage html
 ```
