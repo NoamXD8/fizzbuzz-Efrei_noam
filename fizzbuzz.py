@@ -8,8 +8,8 @@ def fizzbuzz(n):
             print("Fizz")
             result.append("Fizz")
         elif i % 5 == 0:
-            print("Buzz")
-            result.append("Buzz")
+            print("Buzzzzzz")
+            result.append("Buzzzzzz")
         else:
             print(i)
             result.append(str(i))
