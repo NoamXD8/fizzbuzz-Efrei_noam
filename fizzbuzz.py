@@ -16,8 +16,8 @@ def fizzbuzz(n):
             print("Fizz")
             result.append("Fizz")
         elif i % 5 == 0:
-            print("Buzzzzzz")
-            result.append("Buzzzzzz")
+            print("Buzz")
+            result.append("Buzz")
         else:
             print(i)
             result.append(str(i))
