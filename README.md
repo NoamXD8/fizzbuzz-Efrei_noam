@@ -1,7 +1,7 @@
-<b>Pour le code coverage :<b>
-pip install coverage 
-coverage run -m pytest
-coverage report -m
+<b>Pour le code coverage :<b><br>
+pip install coverage <br>
+coverage run -m pytest<br>
+coverage report -m<br>
 
 fizzbuzz-Efrei_noam % coverage report -m
 Name                     Stmts   Miss  Cover   Missing
