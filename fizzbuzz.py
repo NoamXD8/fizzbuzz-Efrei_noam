@@ -15,6 +15,7 @@ def fizzbuzz(n):
             result.append(str(i))
     return result
 
+#Commit pour test pull request
 #a = fizzbuzz(101)
 #print(a)
 fizzbuzz(101)
