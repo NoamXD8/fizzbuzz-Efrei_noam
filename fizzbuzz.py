@@ -14,3 +14,6 @@ def fizzbuzz(n):
             #print(i)
             result.append(str(i))
     return result
+
+a = fizzbuzz(4)
+print(a)
