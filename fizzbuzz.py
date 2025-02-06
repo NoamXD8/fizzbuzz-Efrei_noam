@@ -24,6 +24,7 @@ def fizzbuzz(n):
     return result
 
 #Commit pour test pull request
+
 #a = fizzbuzz(101)
 #print(a)
 fizzbuzz(101)
