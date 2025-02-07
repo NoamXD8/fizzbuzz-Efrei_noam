@@ -1,8 +1,8 @@
 #Commentaire pour commit
-def main():
-    print('Hello, World!')
-    return 0
+#def main():
+#    print('Hello, World!')
+#    return 0
 
-if __name__ == '__main__':
-    main()
+#if __name__ == '__main__':
+#    main()
 

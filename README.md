@@ -1,3 +1,7 @@
+![Codecov](https://codecov.io/gh/NoamXD8/fizzbuzz-Efrei_noam/branch/main/graph/badge.svg)
+![Coverage Graph](https://app.codecov.io/gh/NoamXD8/fizzbuzz-Efrei_noam)
+
+
 ### 1. Installer `coverage`
 
 Si ce n'est pas déjà fait, installez le module `coverage` avec la commande suivante :
@@ -44,7 +48,6 @@ coverage html
 Wrote HTML report to htmlcov/index.html
 ```
 
-![Codecov](https://codecov.io/gh/NoamXD8/fizzbuzz-Efrei_noam/branch/main/graph/badge.svg)
 
 Dans cet exemple, nous avons atteint une couverture de **100%**, ce qui signifie que tous les fichiers et tests sont couverts.
 
