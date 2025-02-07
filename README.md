@@ -1,5 +1,5 @@
-**Code coverage avec CODECOV**<br>
-![Codecov](https://codecov.io/gh/NoamXD8/fizzbuzz-Efrei_noam/branch/main/graph/badge.svg)
+**Code coverage avec CODECOV**<br><br>
+![Codecov](https://codecov.io/gh/NoamXD8/fizzbuzz-Efrei_noam/branch/main/graph/badge.svg)<br>
 Pour plus de détails sur notre couverture de tests, consultez [notre rapport complet sur Codecov](https://app.codecov.io/gh/NoamXD8/fizzbuzz-Efrei_noam).
 
 
