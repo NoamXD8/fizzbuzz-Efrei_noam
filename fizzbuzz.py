@@ -10,7 +10,7 @@ def fizzbuzz(n):
     result = []
     for i in range(1, n):
         if i % 3 == 0 and i % 5 == 0:
-            result.append("FizzBuzzzz")
+            result.append("FizzBuzz")
             print("FizzBuzz")
         elif i % 3 == 0:
             print("Fizz")
