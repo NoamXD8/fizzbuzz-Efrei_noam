@@ -39,5 +39,6 @@ jobs:
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v3
         with:
+          token: ${{ secrets.CODECOV_TOKEN }}  # Stocke ton token dans les GitHub Secrets
           file: ./coverage.xml
 
