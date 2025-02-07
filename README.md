@@ -43,4 +43,17 @@ coverage html
 ```bash
 Wrote HTML report to htmlcov/index.html
 ```
+
+![Codecov](https://codecov.io/gh/NoamXD8/fizzbuzz-Efrei_noam/branch/main/graph/badge.svg)
+
 Dans cet exemple, nous avons atteint une couverture de **100%**, ce qui signifie que tous les fichiers et tests sont couverts.
+
+**🟢 Tests réussis : la PR peut être fusionnée**  
+![Tests réussis, PR fusionnable](Images/sucessPR.png)
+
+**🔴 Tests échoués : la PR est bloquée**  
+![Tests échoués, PR bloquée](Images/echecPR.png)
+
+
+**Run des tests dans Docker** :
+![Tests Docker](Images/testdocker.png)
