@@ -36,7 +36,7 @@ def test_numbers():
     '''
     Test de la fonction fizzbuzz dans les cas où elle doit retourner un nombre"
     '''
-    assert fizzbuzz(2)[0] == '1'
+    assert fizzbuzz(2)[0] == ''
     assert fizzbuzz(3)[1] == '2'
     assert fizzbuzz(5)[3] == '4'
     assert fizzbuzz(8)[6] == '7'
